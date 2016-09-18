@@ -42,6 +42,7 @@
         android:layout_height="wrap_content"
         android:text="@string/show"
         android:id="@+id/button"
+        android:onClick="showButtonClicked"
         android:layout_below="@+id/longitude"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="35dp" />
